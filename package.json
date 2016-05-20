@@ -1,0 +1,23 @@
+{
+  "name": "ucp-estimator",
+  "version": "1.0.0",
+  "description": "Module for quick estimation given number of use cases.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamthearvin/ucp-estimator.git"
+  },
+  "author": "Vin Badiola <arvin.badiola@gmail.com> (http://arvinbadiola.appspot.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamthearvin/ucp-estimator/issues"
+  },
+  "homepage": "https://github.com/iamthearvin/ucp-estimator#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
