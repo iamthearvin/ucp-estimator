@@ -10,6 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/iamthearvin/ucp-estimator.git"
   },
+  "keywords": [
+	"iamthearvin",
+	"use case point",
+  	"estimation",
+	"costing",
+	"project management",
+	"tools"	
+  ],
   "author": "Vin Badiola <arvin.badiola@gmail.com> (http://arvinbadiola.appspot.com)",
   "license": "ISC",
   "bugs": {
